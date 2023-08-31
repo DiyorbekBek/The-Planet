@@ -1,0 +1,21 @@
+.sitenav__link:hover {
+  border-top-color: #6d2ed5;
+}
+
+.hero-buttons-item:hover {
+  color: #fff;
+  background: #6d2ed5;
+}
+
+#active {
+  border-color: #6d2ed5;
+  background: #6d2ed5;
+}
+
+#ativee {
+  opacity: 1;
+}
+
+#bottom-bor {
+  border-bottom: 4px solid #6d2ed5;
+}
